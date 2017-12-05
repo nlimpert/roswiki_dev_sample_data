@@ -1,0 +1,16 @@
+tests:
+   # use jenkins summary (clouds, sun thing)
+   aggregated_status: stable
+   results_latest_build: {skipped: 1, failed: 0, succeeded: 10}
+   history:
+   - job_id: 30
+     uri: "http://build.ros.org/view/Idev/job/Idev__fanuc__ubuntu_trusty_amd64/30/"
+     tests: {skipped: 1, failed: 0, succeeded: 10}
+
+   - job_id: 29
+     uri: "http://build.ros.org/view/Idev/job/Idev__fanuc__ubuntu_trusty_amd64/29/"
+     tests: {skipped: 1, failed: 0, succeeded: 9}
+
+   - job_id: 25
+     uri: "http://build.ros.org/view/Idev/job/Idev__fanuc__ubuntu_trusty_amd64/25/"
+     tests: {skipped: 0, failed: 11111, succeeded: 0}
