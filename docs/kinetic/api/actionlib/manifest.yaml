@@ -1,0 +1,44 @@
+actions:
+- Test
+- TestRequest
+- TwoInts
+api_documentation: http://docs.ros.org/indigo/api/actionlib/html
+authors: Eitan Marder-Eppstein, Vijay Pradeep
+brief: ''
+bugtracker: https://github.com/ros/actionlib/issues
+depends:
+- actionlib_msgs
+- catkin
+- message_generation
+- message_runtime
+- roscpp
+- rospy
+- rostest
+- std_msgs
+depends_on: []
+description: "The actionlib stack provides a standardized interface for\n    interfacing\
+  \ with preemptable tasks. Examples of this include moving\n    the base to a target\
+  \ location, performing a laser scan and returning\n    the resulting point cloud,\
+  \ detecting the handle of a door, etc."
+devel_jobs:
+- http://build.ros.org/view/Idev/job/Idev__actionlib__ubuntu_trusty_amd64
+doc_job: http://build.ros.org/view/Idoc/job/Idoc__actionlib__ubuntu_trusty_amd64
+has_changelog_rst: true
+license: BSD
+maintainer_status: maintained
+maintainers: Mikael Arguedas <mikael@osrfoundation.org>
+msgs: []
+package_type: package
+release_jobs:
+- http://build.ros.org/view/Isrc_uT/job/Isrc_uT__actionlib__ubuntu_trusty__source
+- http://build.ros.org/view/Ibin_arm_uThf/job/Ibin_arm_uThf__actionlib__ubuntu_trusty_armhf__binary
+- http://build.ros.org/view/Ibin_uT32/job/Ibin_uT32__actionlib__ubuntu_trusty_i386__binary
+- http://build.ros.org/view/Ibin_uT64/job/Ibin_uT64__actionlib__ubuntu_trusty_amd64__binary
+repo_name: actionlib
+repo_url: https://github.com/ros/actionlib
+srvs: []
+timestamp: 1498553505.5466444
+url: http://www.ros.org/wiki/actionlib
+vcs: git
+vcs_uri: https://github.com/ros/actionlib.git
+vcs_version: indigo-devel
