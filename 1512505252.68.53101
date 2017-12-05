@@ -1,0 +1,35 @@
+# Data saved '2017-12-05 20:20:53' for id '1512505252.68.53101'
+aliasname=
+bookmarks{}=
+css_url=
+date_fmt=
+datetime_fmt=
+disabled=0
+edit_on_doubleclick=1
+edit_rows=20
+editor_default=text
+editor_ui=freechoice
+email=test@test.com
+email_subscribed_events[]=PageChangedEvent      PageRenamedEvent        PageDeletedEvent        PageCopiedEvent PageRevertedEvent       FileAttachedEvent
+enc_password={PASSLIB}$6$rounds=656000$tM8Kz3g8z1egJ9mv$wuAIr7ypf8KAxlJCBMoqzMSGDEcM1vtTzqlRQjGYZCgRUj.0tC39JTDskBe6PRp/2k4GBNFy52vHImt9dWimP/
+jabber_subscribed_events[]=
+jid=
+language=
+last_saved=1512505253.04
+mailto_author=0
+name=TestUser
+quicklinks[]=
+real_language=
+recoverpass_key=
+remember_last_visit=0
+remember_me=1
+show_comments=0
+show_fancy_diff=1
+show_nonexist_qm=False
+show_page_trail=1
+show_toolbar=1
+show_topbottom=0
+subscribed_pages[]=
+theme_name=rostheme
+tz_offset=0
+wikiname_add_spaces=0
