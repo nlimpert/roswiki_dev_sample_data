@@ -1,0 +1,23 @@
+dev_job_data:
+  history:
+  - build_id: 30
+    uri: job/Idev__actionlib__ubuntu_trusty_amd64/30/
+    stamp: 1524852610.998
+    result: success
+    tests:
+      skipped: 0
+      failed: 0
+      total: 52
+  - build_id: 31
+    uri: job/Idev__actionlib__ubuntu_trusty_amd64/31/
+    stamp: 1523977812.967
+    result: success
+    tests:
+  latest_build:
+    skipped: 0
+    failed: 0
+    total: 52
+  base_url: http://build.ros.org/
+  total_builds: 12
+  job_health: 100
+  job_health_icon: icon-health-80plus
